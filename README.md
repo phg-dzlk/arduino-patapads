@@ -21,3 +21,7 @@
 <img src="resources/patapads_top.jpg" height="250">
 <img src="resources/patapads_side.jpg" height="250">
 <img src="resources/patapads_bottom.jpg" height="250">
+
+## Видео
+
+https://github.com/phg-dzlk/arduino-patapads/assets/102475286/586f0093-020a-4b9b-b5a4-c5f9bf748c9f
